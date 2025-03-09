@@ -1,6 +1,6 @@
 import {StyleSheet, Text, TouchableOpacity} from "react-native";
 
-
+//test
 export function Cards({info, changeState, longPress}) {
 
     return (<TouchableOpacity onLongPress={() => longPress(info)} onPress={() => changeState(info)} style={s.container}>
