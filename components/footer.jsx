@@ -1,6 +1,6 @@
 import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import {useState} from "react";
-
+//test
 export function Footer({focus ,setFocus , list})
  {
 
